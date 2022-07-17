@@ -1,0 +1,27 @@
+{
+  "name": "guitar_pedals",
+  "description": "Guitar Pedals App for microcontrollers",
+  "description_zh": "TBD",
+  "enable": "PKG_USING_GUITAR_PEDALS",
+  "keywords": [
+    "guitar_pedals",
+    "LVGL"
+  ],
+  "category": "multimedia",
+  "author": {
+    "name": "Varanda Labs",
+    "email": "m@varanda.ca",
+    "github": "mvaranda"
+  },
+  "license": "CC BY-NC-SA 4.0",
+  "repository": "https://github.com/Varanda-Labs/GuitarPedals",
+  "homepage": "http://www.varanda.ca",
+  "site": [
+    {
+      "version": "latest",
+      "URL": "https://github.com/Varanda-Labs/GuitarPedals.git",
+      "filename": "Null for git package",
+      "VER_SHA": "rt-thread"
+    }
+  ]
+}
